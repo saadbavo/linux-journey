@@ -1,21 +1,4 @@
 # linux-journey
-🐧 Linux Journey: Week 1 Complete
-Status: Phase 1 Finished | Focus: Command Line Basics & OverTheWire: Bandit
-
-
-Day,Task,Status
-Mon,Watch NetworkChuck Ep 1: Install Kali in VirtualBox,✅ DONE
-Tue,Watch NetworkChuck Ep 2: Command Mirroring,✅ DONE
-Wed,Watch NetworkChuck Ep 3: Bandit Level 0 → 1,✅ DONE
-Thu,Watch NetworkChuck Ep 4: Bandit Level 1 → 2 (cat),✅ DONE
-Fri,Watch NetworkChuck Ep 5: Bandit Level 2 → 3 (Spaces),✅ DONE
-Sat,DEEP WORK: Completed Bandit Levels 3 to 10,✅ DONE
-
-
-Gemini said
-Since you've crushed the entire week, your GitHub should reflect that 100% completion. Here is exactly what you should write in your README.md to show off your progress.
-
-Copy and paste this block:
 
 🐧 Linux Journey: Week 1 Complete
 Status: Phase 1 Finished | Focus: Command Line Basics & OverTheWire: Bandit
